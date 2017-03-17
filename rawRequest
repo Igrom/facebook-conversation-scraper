@@ -1,0 +1,11 @@
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: */*
+Accept-Language: pl,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+X-MSGR-Region: ATN
+Referer: https://www.facebook.com/messages/t/marta.szameto
+Content-Length: 526
+Cookie: datr=IwGRWEmFEVJDc3b1gDlCis1C; fr=0yd81Spyewav7A8uE.AWWNm6M1K_RSqjGaawDJZFL6mKw.BYlHKO.nl.AAA.0.0.BYywde.AWUr6w5u; sb=lnKUWIGnsb1Kd81yV_5QlCx9; c_user=100000401294390; xs=16%3AOmte0-NCpCbnZA%3A2%3A1486123671%3A5302; csm=2; pl=n; lu=ggQT8JI1VHeQOoOIyBPVPQeQ; act=1489700837825%2F77; presence=EDvF3EtimeF1489701163EuserFA21B00401294390A2EstateFDutF1489701163148CEchFDp_5f1B00401294390F2CC; wd=946x387
+Connection: keep-alive
